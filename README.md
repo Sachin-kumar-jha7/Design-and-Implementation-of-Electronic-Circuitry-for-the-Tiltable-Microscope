@@ -1,7 +1,4 @@
 # Design-and-Implementation-of-Electronic-Circuitry-for-the-Tiltable-Microscope
-The objective of this project is to develop a motorized rotating mechanism that allows the microscope to rotate smoothly to the desired input angle in the range of-80° to +80° with an angular velocity of less than 1 rpm with a resolution of 0.5°.
-
-
 Due to the increasing application of colloids in various fields like medicine,
 material science, environmental science, etc, it is important to understand the behavior and
 characteristics of colloidal particles. This project aims to develop a tilting mechanism for a
